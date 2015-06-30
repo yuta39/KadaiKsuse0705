@@ -3,6 +3,7 @@ package com.github.finder;
 /**
  * Hello world!　
  by YutaMiyagawa
+ ほげ
  *
  */
  public class Main{
