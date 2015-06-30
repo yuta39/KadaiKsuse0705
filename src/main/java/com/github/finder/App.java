@@ -1,7 +1,7 @@
 package com.github.finder;
 
 /**
- * Hello world!
+ * Hello world!and Yuta
  *
  */
 public class App 
