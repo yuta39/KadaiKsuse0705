@@ -1,7 +1,8 @@
 package com.github.finder;
 
 /**
- * Hello world!
+ * Hello world!　
+ by YutaMiyagawa
  *
  */
  public class Main{
