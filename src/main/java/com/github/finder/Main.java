@@ -2,8 +2,7 @@ package com.github.finder;
 
 /**
  * Hello world!　
- by YutaMiyagawa
- ほげ
+ Yuta
  *
  */
  public class Main{
